@@ -13,7 +13,7 @@ This guide provides step-by-step instructions for jailbreaking a PS4 with firmwa
    ```bash
    cd PPPwnGH11AppleSilicon
    ```
-4. Copy the contents of the subfolder to the root of an exFAT USB stick.
+4. Copy the contents of the subfolder to the root of an exFAT USB stick. (Store-R2.pkg is optional)
 5. Plug the USB stick into the PS4 console.
 6. Connect the PS4 to your computer using a LAN cable.
 7. On the PS4, go to "Settings" -> "Network" -> "Set Up Internet Connection" -> "Use a LAN Cable" -> "Custom" -> "PPPoE".
